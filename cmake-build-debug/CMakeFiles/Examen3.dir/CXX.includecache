@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Universidad/Ciclo 3/POO II/Examen3/main.cpp
+iostream
+-
+vector
+-
+templates.h
+/cygdrive/e/Universidad/Ciclo 3/POO II/Examen3/templates.h
+
+/cygdrive/e/Universidad/Ciclo 3/POO II/Examen3/templates.h
+iostream
+-
+vector
+-
+deque
+-
+
